@@ -3,11 +3,11 @@
 <suite name="Failed suite [Testing Google Apps]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Regression(failed)">
     <classes>
-      <class name="AA">
+      <class name="TestCase">
         <methods>
           <include name="cc"/>
         </methods>
-      </class> <!-- AA -->
+      </class> <!-- TestCase -->
     </classes>
   </test> <!-- Regression(failed) -->
 </suite> <!-- Failed suite [Testing Google Apps] -->

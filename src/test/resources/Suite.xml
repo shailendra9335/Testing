@@ -4,8 +4,9 @@
     <test name="Regression">
          <classes>
 			  
-			  <class name="AA"/>
-             <class name="test"/>
+			  <class name="TestCase"/>
+             <class name="OnlyGoogleLive"/>
+            
             
              
              <class name="Runer.loginruner"/>
